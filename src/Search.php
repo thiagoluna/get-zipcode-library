@@ -1,6 +1,6 @@
 <?php
 
-namespace ThiagoLuna\GetCep;
+namespace ThiagoLuna\GetZipcode;
 
 class Search 
 {

@@ -1,6 +1,6 @@
 {
-    "name": "thiagoluna/get-cep",
-    "description": "Get cep online",
+    "name": "thiagoluna/get-zipcode",
+    "description": "Get Zipcode online",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -17,7 +17,7 @@
             "Search": "src/"
         },
         "psr-4": {
-            "ThiagoLuna\\GetCep\\": "src/"
+            "ThiagoLuna\\GetZipcode\\": "src/"
         }
     }
 }
