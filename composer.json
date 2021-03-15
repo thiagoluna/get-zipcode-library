@@ -1,0 +1,23 @@
+{
+    "name": "thiagoluna/get-cep",
+    "description": "Get cep online",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thiago Luna",
+            "email": "thiagoluna2@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "ThiagoLuna\\GetCep\\": "src/"
+        }
+    }
+}
